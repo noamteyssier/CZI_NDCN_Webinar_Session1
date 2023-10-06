@@ -1,0 +1,6 @@
+method: rra
+gene: gene
+x: log_fold_change
+y: pvalue
+z: fdr
+threshold: 0.1
